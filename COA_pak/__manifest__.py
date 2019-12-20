@@ -25,7 +25,7 @@
     'website': 'http://itechresources.net/',
     'category': 'Accounting &amp; Finance',
     'license': "AGPL-3",
-    'version': '12.2.1',
+    'version': '12.0.0',
     'depends': ['base', 'account'],
     'data': [
         'security/account_parent_security.xml',
