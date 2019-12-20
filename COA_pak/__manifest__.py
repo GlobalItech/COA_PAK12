@@ -7,7 +7,7 @@
 #
 ##############################################################################
 {
-    'name': "Pakistan Chart of Account(Manufacturing)",
+    'name': "Pakistan Chart of Account",
     'summary': """
         Adds Parent account and ability to open chart of account list view based on the date and moves""",
     'description': """
@@ -24,7 +24,7 @@
     'author': 'Itech Resources,Steigend IT Solutions',
     'website': 'http://itechresources.net/',
     'category': 'Accounting &amp; Finance',
-    'version': '12.2.1',
+    'version': '12.0.0',
     'depends': ['base', 'account'],
     'data': [
         'security/account_parent_security.xml',
