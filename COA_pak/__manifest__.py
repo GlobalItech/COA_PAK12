@@ -7,7 +7,7 @@
 #
 ##############################################################################
 {
-    'name': "Pakistan Chart of Account(Manufacturing)",
+    'name': "Pakistan Chart of Account",
     'summary': """
         Adds Parent account and ability to open chart of account list view based on the date and moves""",
     'description': """
